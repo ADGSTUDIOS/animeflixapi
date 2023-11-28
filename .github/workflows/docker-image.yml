@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/${{ github.repository }}/animeapi:latest
+        tags: ghcr.io/adgstudios/animeapi:latest
